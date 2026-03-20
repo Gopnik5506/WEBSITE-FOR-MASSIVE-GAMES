@@ -1,0 +1,66 @@
+*{
+
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+
+
+
+
+body { /* Gemini aided me with this */
+
+background-image: url("../media/background05.jpg");
+
+    
+}
+
+
+
+
+.Heading2 {
+
+    color: red;
+}
+
+
+.Heading3 {
+color: yellow;
+
+}
+
+.Heading4 {
+
+    color: white;
+}
+
+
+
+h1 {
+
+    color: white;
+}
+
+
+h2 {
+
+    color: white;
+}
+
+
+
+.Homepagelink {
+
+color: white;
+}
+
+.Gameslink {
+
+color: white;
+}
+
+.Contactlink {
+
+color: white;
+}

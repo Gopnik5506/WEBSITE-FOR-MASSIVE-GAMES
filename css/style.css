@@ -9,7 +9,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
 
 
-body { /* Gemini aided me with finding this webpage I learnt how to provide the path to the parent DIR without typing the full path https://stackoverflow.com/questions/8783026/css-background-image-in-a-different-folder-from-css */
+body { /* Gemini aided me with finding this webpage, I learnt how to provide the path to the parent DIR without typing the full path https://stackoverflow.com/questions/8783026/css-background-image-in-a-different-folder-from-css */
 
 background-image: url("../media/background05.jpg");
 

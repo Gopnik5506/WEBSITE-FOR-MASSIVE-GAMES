@@ -1,0 +1,66 @@
+*{
+
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+
+
+
+
+body { /* Gemini aided me with this https://www.google.com/search?q=How+to+add+a+background+image+with+a+.css+file%3F&authuser=0&aep=21&utm_source=google&utm_campaign=aim_aware&utm_content=oo-seaport-10215&mstk=AUtExfC5hk4V0IAyLfy7Kxwoktp-UubSD2WlFa8N0jotq_0eyjJ1cp_H7EMUInzZoS1mctOKslNMs4sezs-rvmt-DE4Ejl_usgLGSarURUCF6UTrN0aCREQ3nPh_vljgLKbdSasVLzpMIS4TKlAJzbCLUPGSciFb8i-2ImUnVeGDhlvyvU17zIPllkgpLExy4htIafrtxYi6LeTF8wnQsvnIJhgRRSZi197kITlmoZzpxoneHgYv7pNP4QsiLdOpgwqEbdGf8rN6R458B5prqzSUuCcgTF5x1i1dEp57my1n9Oh78Sw5tZHu-6tvBmpG3aGi2RdHr4zYupOtMg&csuir=1&mtid=WYi8aY64EoehnesPyK39mAo&udm=50 */
+
+background-image: url("../media/background05.jpg");
+
+    
+}
+
+
+
+
+.Heading2 {
+
+    color: black;
+}
+
+
+.Heading3 {
+color: black;
+
+}
+
+.Heading4 {
+
+    color: black;
+}
+
+
+
+h1 {
+
+    color: black;
+}
+
+
+h2 {
+
+    color: black;
+}
+
+
+
+.Homepagelink {
+
+color: black;
+}
+
+.Gameslink {
+
+color: black;
+}
+
+.Contactlink {
+
+color: black;
+}
